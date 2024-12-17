@@ -15,7 +15,7 @@ spec:
       containers:
         - name: apprentice-app
           # This will be overridden by kustomization
-          image: placeholder
+          image: ghcr.io/easy-octo/apprentice-hire-exercise:v1.1.0
           ports:
             - containerPort: 80
           resources:

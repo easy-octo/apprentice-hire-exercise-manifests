@@ -6,8 +6,3 @@ kind: Kustomization
 resources:
   - deployment.yaml
   - service.yaml
-
-images:
-  - name: placeholder
-    newName: ghcr.io/easy-octo/apprentice-hire-exercise
-    newTag: 1.1.0
