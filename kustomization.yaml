@@ -10,4 +10,4 @@ resources:
 images:
   - name: placeholder
     newName: ghcr.io/easy-octo/apprentice-hire-exercise
-    newTag: 1.0.3
+    newTag: 1.1.0
