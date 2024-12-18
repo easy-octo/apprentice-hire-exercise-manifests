@@ -1,18 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["config:base", ":dependencyDashboard"],
+  "extends": ["config:recommended"],
+  "enabledManagers": ["kustomize", "kubernetes"],
   "kubernetes": {
-    "fileMatch": ["^deployment\\.yaml$"]
-  },
-  "packageRules": [
-    {
-      "matchDatasources": ["docker"],
-      "enabled": true,
-      "automerge": false,
-      "separateMinorPatch": true
-    }
-  ],
-  "separateMajorMinor": true,
-  "dependencyDashboard": true,
-  "labels": ["dependencies"]
+    "fileMatch": ["\\.ya?ml$"]
+  }
 }
