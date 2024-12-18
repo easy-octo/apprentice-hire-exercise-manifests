@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/easy-octo/apprentice-hire-exercise-manifests/compare/v1.1.2...v1.1.3) (2024-12-18)
+
+
+### Bug Fixes
+
+* corrected typo in image version ([145291a](https://github.com/easy-octo/apprentice-hire-exercise-manifests/commit/145291a7136c6a290d8952c3732ac532ebbd8ac9))
+
 ## [1.1.2](https://github.com/easy-octo/apprentice-hire-exercise-manifests/compare/v1.1.1...v1.1.2) (2024-12-18)
 
 
