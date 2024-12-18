@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/easy-octo/apprentice-hire-exercise-manifests/compare/v1.1.0...v1.1.1) (2024-12-18)
+
+
+### Bug Fixes
+
+* bump apprentice-hire-exercise image v1.1.1 ([ab454b2](https://github.com/easy-octo/apprentice-hire-exercise-manifests/commit/ab454b24b69099c8a000a9b2ca68d58553d1fd9b))
+* update image tag in deployment yaml and enabled renovate ([00df96c](https://github.com/easy-octo/apprentice-hire-exercise-manifests/commit/00df96ca70164ee01b83989c545595b974b67e37))
+
 ## [1.1.0](https://github.com/easy-octo/apprentice-hire-exercise-manifests/compare/v1.0.0...v1.1.0) (2024-12-17)
 
 
