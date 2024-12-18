@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/easy-octo/apprentice-hire-exercise-manifests/compare/v1.1.1...v1.1.2) (2024-12-18)
+
+
+### Bug Fixes
+
+* added namespace back to kustomize ([15456f0](https://github.com/easy-octo/apprentice-hire-exercise-manifests/commit/15456f0f61c2b5ff506c177cd6e08af76fe542fb))
+
 ## [1.1.1](https://github.com/easy-octo/apprentice-hire-exercise-manifests/compare/v1.1.0...v1.1.1) (2024-12-18)
 
 
